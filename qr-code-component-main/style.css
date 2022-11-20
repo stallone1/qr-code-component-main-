@@ -1,0 +1,64 @@
+
+.back{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(212, 45%, 89%);
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.tag1 {
+
+width: 350px;
+height: 520px;
+background-color: white;
+border-radius: 15px;
+padding-top: 10px;
+padding-left: 10px;
+margin-left: 7px;
+padding-right: -2px;
+}
+
+.img {
+display: flex;
+justify-content:space-between;
+align-content: center;
+width: 330px;
+height: 300px;
+margin-left: 5px;
+margin-top: 3px;
+margin-right: 5px;
+border-radius: 15px;
+
+
+}
+
+.large {
+text-align: center;
+font-weight: 700;
+font-family: 'cursive', sans-serif;
+ 
+line-height: 1.8;
+    
+}
+
+.small {
+text-align: center;
+font-size: 400;
+color:rgb(132, 130, 130);
+font-family: 'Anton', sans-serif;
+font-family: 'Fascinate', cursive;
+font-family: 'Fraunces', serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Ubuntu', sans-serif;
+
+}
+
+.attribution {
+padding-top: 1200px;
+}
